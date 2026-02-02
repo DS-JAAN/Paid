@@ -9,12 +9,15 @@
 
 # BALOCH PITAFIA
 
- 
-* git clone https://github.com/DS-JAAN/Paid
-
+* apt update 
+* apt upgrade 
+* pkg install python 
+* pkg install git
+* pip install requests 
+* ‎pip install pyfiglet 
+* https://github.com/DS-JAAN/Paid
 * cd Paid
-
-* python DS804.py
+* python DSJAAN.py
 
 # My WhatsApp Number 😁😁 
 
