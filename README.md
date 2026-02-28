@@ -15,7 +15,7 @@
 * pkg install git
 * pip install requests 
 * ‎pip install pyfiglet 
-* https://github.com/DS-JAAN/Paid
+* git clone https://github.com/DS-JAAN/Paid
 * cd Paid
 * python DSJAAN.py
 
